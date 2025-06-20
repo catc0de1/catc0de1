@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on **Web Development** or **Game Development**
 - 🤔 I’m looking for help with **Game Animation**
 - 💬 Ask me about **Web Development** and **Game Design**
-- 😄 Pronouns: Huh and What?
 - ⚡ Fun fact: I Loves Cats🐈
 
 ---
