@@ -18,7 +18,7 @@
 
 ## 💻 Tech Stack & Tools
 
-### Languages I Use Often
+### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
