@@ -10,10 +10,9 @@
 ## 🧠 About Me
 - 🔭 I’m currently studying on **Universitas Negeri Surabaya**
 - 🌱 I’m currently learning **Unity**, **Tauri**, **C++**, and more
-- 👯 I’m looking to collaborate on **Web Development** or **Game Development**
-- 🤔 I’m looking for help with **Game Animation**
-- 💬 Ask me about **Web Development** and **Game Design**
-- ⚡ Fun fact: I Loves Cats🐈
+- 👯 I’m looking to collaborate on **Software Development** or **Game Development**
+- 🤔 I’m looking for help with **Game Animator** or **UI/UX Designer**
+- 💬 Ask me about **Software Development** and **Game Design**
 
 ---
 
@@ -21,16 +20,21 @@
 
 ### Languages I Use Often
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+
 
 ### Tools & Frameworks
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-1A1A1A?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 ---
@@ -46,8 +50,9 @@
 
 I'm actively involved in:
 
-- [**Universitas Negeri Surabaya**](https://github.com/UniversitasNegeriSurabaya-Iyan165) – my documentation task in Universitas Negeri Surabaya as informatic engineering student.
+- [**Universitas Negeri Surabaya**](https://github.com/UniversitasNegeriSurabaya-Iyan165) – my documentation task in Universitas Negeri Surabaya as informatic engineering bachelor.
 - [**Z-Labs**](https://github.com/Z-labs-01) – focused on experiment vanilla language, build a framework, or interesting apps.
+- [**Learn with Z**](https://github.com/learn-with-z) - my course to learn some programming or tools.
 
 ---
 
