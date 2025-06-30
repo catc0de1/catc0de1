@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Iyan Zuli A</h1>
 
 <p align="center">
-  🎮 Unity Game Developer | 🌐 Fullstack Cross-Platform Developer <br />
-  Passionate about building immersive games and dynamic applications.
+  🌐 Fullstack Cross-Platform Developer | 🎮 Unity Game Developer <br />
+  Passionate about building dynamic applications and immersive games.
 </p>
 
 ---
@@ -53,6 +53,7 @@ I'm actively involved in:
 - [**Universitas Negeri Surabaya**](https://github.com/UniversitasNegeriSurabaya-Iyan165) – my documentation task in Universitas Negeri Surabaya as informatic engineering bachelor.
 - [**Z-Labs**](https://github.com/Z-labs-01) – focused on experiment vanilla language, build a framework, or interesting apps.
 - [**Learn with Z**](https://github.com/learn-with-z) - my course to learn some programming or tools.
+- [**GameDev**](https://github.com/gamedev-with-z) - my game projects with unity or other tools.
 
 ---
 
