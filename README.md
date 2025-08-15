@@ -7,12 +7,12 @@
 
 ---
 
-## 🧠 About Me
-- 🔭 I’m currently studying on **Universitas Negeri Surabaya**
-- 🌱 I’m currently learning **Unity**, **Tauri**, **C++**, and more
-- 👯 I’m looking to collaborate on **Software Development** or **Game Development**
-- 🤔 I’m looking for help with **Game Animator** or **UI/UX Designer**
-- 💬 Ask me about **Software Development** and **Game Design**
+## 🏢 Sub Resipoteries
+
+- [**Universitas Negeri Surabaya**](https://github.com/UniversitasNegeriSurabaya-Iyan165) – my documentation task in Universitas Negeri Surabaya as informatic engineering bachelor.
+- [**Z-Labs**](https://github.com/Z-labs-01) – focused on experiment vanilla language, build a framework, or interesting apps.
+- [**Learn with Z**](https://github.com/learn-with-z) - my course to learn some programming or tools.
+- [**GameDev**](https://github.com/gamedev-with-z) - my game projects with unity or other tools.
 
 ---
 
@@ -43,17 +43,6 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CatC0de1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatC0de1&layout=compact&theme=radical)
-
----
-
-## 🏢 Organizations
-
-I'm actively involved in:
-
-- [**Universitas Negeri Surabaya**](https://github.com/UniversitasNegeriSurabaya-Iyan165) – my documentation task in Universitas Negeri Surabaya as informatic engineering bachelor.
-- [**Z-Labs**](https://github.com/Z-labs-01) – focused on experiment vanilla language, build a framework, or interesting apps.
-- [**Learn with Z**](https://github.com/learn-with-z) - my course to learn some programming or tools.
-- [**GameDev**](https://github.com/gamedev-with-z) - my game projects with unity or other tools.
 
 ---
 
