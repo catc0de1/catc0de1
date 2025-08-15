@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Iyan Zuli A</h1>
 
 <p align="center">
-  🌐 Fullstack Cross-Platform Developer | 🎮 Unity Game Developer <br />
-  Passionate about building dynamic applications and immersive games.
+  Fullstack Cross-Platform Web Based JavaScript Specialist Developer<br />
+  Passionate about building dynamic applications and others.
 </p>
 
 ---
