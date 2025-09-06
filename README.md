@@ -7,7 +7,7 @@
 
 ---
 
-## Sub Resipoteries
+## Sub Repositeries
 
 - [**Universitas Negeri Surabaya**](https://github.com/UniversitasNegeriSurabaya-Iyan165) – my documentation task in Universitas Negeri Surabaya as informatic engineering bachelor.
 - [**Z-Labs**](https://github.com/Z-labs-01) – focused on experiment vanilla language, build a framework, or interesting apps.
