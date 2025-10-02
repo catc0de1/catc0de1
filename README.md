@@ -13,3 +13,21 @@
 - [**Z-Labs**](https://github.com/Z-labs-01) – focused on experiment vanilla language, build a framework, or interesting apps.
 - [**Learn with Z**](https://github.com/learn-with-z) - my course to learn some programming or tools.
 - [**GameDev**](https://github.com/gamedev-with-z) - my game projects with unity or other tools.
+
+## Tech Stacks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,npm,yarn,pnpm,typescript,react,next,astro,tailwind,bootstrap,sass,express,adonis,nestjs,mysql,sqlite,postgresql,mongodb,redis,vite,webpack,rust,tauri,cpp,cmake,mint,docker,git,github,postman,vercel"
+    />
+  </a>
+</p>
+
+## Soon
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=angular,alpinejs,htmx,cs,dotnet,firebase,jest,kali"
+    />
+  </a>
+</p>
