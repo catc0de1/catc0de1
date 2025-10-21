@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=angular,alpinejs,htmx,cs,dotnet,firebase,jest,kali"
+      src="https://skillicons.dev/icons?i=remix,angular,alpinejs,htmx,cs,dotnet,firebase,jest,kali"
     />
   </a>
 </p>
