@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=kali"
+      src="https://skillicons.dev/icons?i=actix,kafka,qt,kotlin,githubaction,kurbenetes,kali"
     />
   </a>
 </p>
