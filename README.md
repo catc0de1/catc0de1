@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,npm,yarn,pnpm,typescript,react,svelte,astro,alpinejs,remix,redux,tailwind,bootstrap,sass,emotion,materialui,express,adonis,nestjs,mysql,sqlite,postgresql,prisma,mongodb,redis,elasticsearch,graphql,vite,webpack,rust,tauri,cpp,cmake,mint,docker,jest,git,github,vscode,postman,netlify"
+      src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,npm,yarn,pnpm,typescript,react,angular,svelte,astro,alpinejs,remix,redux,tailwind,bootstrap,sass,emotion,materialui,express,adonis,nestjs,mysql,sqlite,postgresql,prisma,mongodb,redis,elasticsearch,graphql,vite,webpack,rust,tauri,cpp,cmake,mint,docker,jest,git,github,vscode,postman,netlify"
     />
   </a>
 </p>
@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=angular,kali"
+      src="https://skillicons.dev/icons?i=kali"
     />
   </a>
 </p>
